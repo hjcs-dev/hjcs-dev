@@ -1,7 +1,11 @@
 ✨ Hi i am HJCS
 
-- I am interessed of python
+- 🐍 - I am interessed of python
 
-- I am interessed of OSINT
+👩‍💻 - I am interessed of OSINT
 
-- - My discord : hjcs__
+- My discord : hjcs__
+
+- 🏴‍☠️
+ 
+
