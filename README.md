@@ -4,7 +4,7 @@
 
 👩‍💻 ・ I am interessed of OSINT
 
-- https://cdn3.emoji.gg/emojis/9738-discord-ico.png"> My discord : hjcs__
+- [https://cdn3.emoji.gg/emojis/9738-discord-ico.png] My discord : hjcs__
 
 - 🏴‍☠️
  
