@@ -1,8 +1,8 @@
-✨ Hi i am HJCS
+✨ Hi i am HJCS, a discord skid
 
-🐍 ・ I am interessed of python
+🐍 ・ I am interessed in python
 
-👩‍💻 ・ I am interessed of OSINT
+👩‍💻 ・ I am interessed in OSINT
 
 🇫🇷 ・ My discord : hjcs__
 
