@@ -15,9 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 - **Purpose:** A robust software designed for system security and user privacy.
 - **Features:** Multi-layered protection, anonymity tools, real-time monitoring, and seamless integration with various systems.
 - **Tech Stack:** Python (CustomTkinter), Security Protocols.
-
-### Best Project
-- **NepsShield:** : 
+- 
 ## 🌱 What I'm Learning
 I'm always expanding my skill set! Currently, I'm diving deeper into:
 - Advanced C# for desktop applications
