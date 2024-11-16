@@ -1,1 +1,1 @@
-![Developer at Work]([https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://cdn.discordapp.com/attachments/1302337905124966460/1302364661580169337/6137cd4a11b31898897c905145f53eb6_1.gif?ex=673a4e1c&is=6738fc9c&hm=9fba37505f75519b3236f4de777584353601d834c47afa84332b5f6f85d23032&))
+![Developer at Work](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
